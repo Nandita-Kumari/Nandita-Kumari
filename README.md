@@ -4,6 +4,8 @@ I am Nandita, a full stack web developer with 3 years of experience. I have made
 - 🌱 I’m currently learning devops.
 - 👯 I’m looking to collaborate on web dev projects.
 - 📫 How to reach me: Here is my emaild id kmrinandita@gmail.com and you can reach out to me throgh my portfolio too https://portfolio-new-gamma-two.vercel.app/
+
+  [![SkillIcons](https://skillicons.dev/icons?i=js,react,cpp,nodejs,angular,next,mongodb)](https://skillicons.dev)<br/>
 <!--
 **Nandita-Kumari/Nandita-Kumari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
