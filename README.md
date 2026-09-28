@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am Nandita, a full stack web developer with 3 years of experience. I have made 20+ web application which is running successfully for user help and buisness. 
+I am Nandita, a full stack web developer with 3+ years of experience. I have made 20+ web application which is running successfully for user help and buisness. 
 - 🔭 I’m currently working on Nextjs projects.
 - 🌱 I’m currently learning devops.
 - 👯 I’m looking to collaborate on web dev projects.
